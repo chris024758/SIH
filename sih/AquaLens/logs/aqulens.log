@@ -1,0 +1,43 @@
+
+2025-12-02 20:48:13,675 [INFO] root: Logging initialized
+2025-12-02 20:48:13,679 [INFO] root: Settings loaded from C:\Users\chris rodrigues\Desktop\sih\AquaLens\config\settings.yaml
+2025-12-02 20:48:13,694 [INFO] CameraManager: CameraManager initialized with resolution (1280, 720)
+2025-12-02 20:48:13,720 [INFO] Database: Database ready at database\aqualens.db
+2025-12-02 20:48:13,720 [INFO] PipelineManager: PipelineManager initialized
+2025-12-02 20:48:14,649 [INFO] root: Starting AquaLens UI
+2025-12-02 20:49:03,455 [INFO] root: Logging initialized
+2025-12-02 20:49:03,459 [INFO] root: Settings loaded from C:\Users\chris rodrigues\Desktop\sih\AquaLens\config\settings.yaml
+2025-12-02 20:49:03,460 [INFO] CameraManager: CameraManager initialized with resolution (1280, 720)
+2025-12-02 20:49:03,466 [INFO] Database: Database ready at database\aqualens.db
+2025-12-02 20:49:03,467 [INFO] PipelineManager: PipelineManager initialized
+2025-12-02 20:49:03,736 [INFO] root: Starting AquaLens UI
+2025-12-02 20:53:03,322 [INFO] root: Logging initialized
+2025-12-02 20:53:03,325 [INFO] root: Settings loaded from C:\Users\chris rodrigues\Desktop\sih\AquaLens\config\settings.yaml
+2025-12-02 20:53:03,327 [INFO] CameraManager: CameraManager initialized with resolution (1280, 720)
+2025-12-02 20:53:03,329 [INFO] Database: Database ready at database\aqualens.db
+2025-12-02 20:53:03,329 [INFO] PipelineManager: PipelineManager initialized
+2025-12-02 20:53:04,626 [INFO] root: Starting AquaLens UI
+2025-12-02 20:55:50,702 [INFO] root: Logging initialized
+2025-12-02 20:55:50,705 [INFO] root: Settings loaded from C:\Users\chris rodrigues\Desktop\sih\AquaLens\config\settings.yaml
+2025-12-02 20:55:50,706 [INFO] CameraManager: CameraManager initialized with resolution (1280, 720)
+2025-12-02 20:55:50,708 [INFO] Database: Database ready at database\aqualens.db
+2025-12-02 20:55:50,708 [INFO] PipelineManager: PipelineManager initialized
+2025-12-02 20:55:51,527 [INFO] root: Starting AquaLens UI
+2025-12-02 22:05:03,316 [INFO] root: Logging initialized
+2025-12-02 22:05:03,318 [INFO] root: Settings loaded from C:\Users\chris rodrigues\Desktop\sih\AquaLens\config\settings.yaml
+2025-12-02 22:05:03,319 [INFO] CameraManager: CameraManager initialized with resolution (1280, 720)
+2025-12-02 22:05:03,321 [INFO] Database: Database ready at database\aqualens.db
+2025-12-02 22:05:03,321 [INFO] PipelineManager: PipelineManager initialized
+2025-12-02 22:05:04,296 [INFO] root: Starting AquaLens UI
+2025-12-02 22:11:54,948 [INFO] root: Logging initialized
+2025-12-02 22:11:54,951 [INFO] root: Settings loaded from C:\Users\chris rodrigues\Desktop\sih\AquaLens\config\settings.yaml
+2025-12-02 22:11:54,953 [INFO] CameraManager: CameraManager initialized with resolution (1280, 720)
+2025-12-02 22:11:54,955 [INFO] Database: Database ready at database\aqualens.db
+2025-12-02 22:11:54,955 [INFO] PipelineManager: PipelineManager initialized
+2025-12-02 22:11:56,001 [INFO] root: Starting AquaLens UI
+2025-12-02 22:21:53,097 [INFO] root: Logging initialized
+2025-12-02 22:21:53,100 [INFO] root: Settings loaded from C:\Users\chris rodrigues\Desktop\sih\AquaLens\config\settings.yaml
+2025-12-02 22:21:53,102 [INFO] CameraManager: CameraManager initialized with resolution (1280, 720)
+2025-12-02 22:21:53,104 [INFO] Database: Database ready at database\aqualens.db
+2025-12-02 22:21:53,105 [INFO] PipelineManager: PipelineManager initialized
+2025-12-02 22:21:54,172 [INFO] root: Starting AquaLens UI

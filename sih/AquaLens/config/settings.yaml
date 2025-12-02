@@ -1,0 +1,26 @@
+camera:
+  resolution: [1280, 720]
+  exposure: auto
+  fps: 30
+
+preprocessing:
+  enable_denoise: true
+  enable_normalization: true
+  enable_illumination_correction: false
+
+inference:
+  threshold: 0.5
+  nms_threshold: 0.4
+  model_path: null
+
+ui:
+  appearance_mode: "dark"
+  color_theme: "dark-blue"
+  default_size: "1200x800"
+  sidebar_width: 200
+  primary_color: "#1BA1E2"
+  accent_color: "#0FB9B1"
+  font_family: "Arial"
+
+database:
+  path: "database/aqualens.db"
